@@ -110,6 +110,10 @@ color:white;
 font-family:serif;
 }
 
+#content ul {
+text-align:left;
+}
+
 #contenta {
 font-family:serif;
 text-align:left;
@@ -126,6 +130,17 @@ text-align:center;
 padding-top:10px;
 height:450px;
 width:350px;
+}
+
+#contentc {
+display:inline-block;
+
+}
+
+#contentc img {
+height:250px;
+width:250px;
+margin:20px;
 }
 
 #content img {
