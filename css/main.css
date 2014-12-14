@@ -16,25 +16,21 @@ h1 {
 }
 h2 { 
   font-size: 180%;
-  padding:0px;
+
 }
 h3 {
-  font-size: 16%;
-  padding:0px;
+  font-size: 160%;
+
 }
 h4 {
   font-size: 140%;
-  padding:0px;
+
 }
 h5 {
   font-size: 120%;
-  color:#3f8252;
-  letter-spacing: 6px;
 }
 h6 {
-  font-size: 90%;
-  margin:-20px;
-  color:#8f8f8f;
+  font-size: 110%;
 }
 
 /*--------------------------------*/
@@ -109,6 +105,22 @@ color:white;
 	color:#white;
 }
 
+/*----------------------------------*/
+#content {
+font-family:serif;
+}
+
+#contenta {
+font-family:serif;
+float:left;
+width:563;
+
+}
+
+#content img {
+height:400px;
+width:500px;
+}
 #footer {
 	clear: both;
 	text-align:center;
