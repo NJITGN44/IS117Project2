@@ -112,9 +112,20 @@ font-family:serif;
 
 #contenta {
 font-family:serif;
+text-align:left;
 float:left;
 width:563;
+padding-left: 14px;
+}
 
+#contenta h3 {
+text-align:center;
+}
+
+#contentb img{
+padding-top:10px;
+height:450px;
+width:350px;
 }
 
 #content img {
